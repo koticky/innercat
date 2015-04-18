@@ -1,5 +1,5 @@
 # Site settings
-title: Тарологические консультации
+title: Дарья Веретельникова
 header-img: img/home-bg.jpg
 email: koticky@gmail.com
 description: "Тарология и психология"
@@ -8,6 +8,7 @@ url: "http://innercat.ru/"
 twitter_username: koticky
 github_username:  koticky
 facebook_username:  koticky
+skype_username: koticky
 
 # Build settings
 markdown: kramdown
