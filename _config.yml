@@ -1,14 +1,14 @@
 # Site settings
 title: Дарья Веретельникова
-header-img: img/home-bg.jpg
+header-img: img/main-bg-dodged.jpg
 email: koticky@gmail.com
 description: "Тарология и психология"
 baseurl: ""
 url: "http://innercat.ru/"
 twitter_username: koticky
-github_username:  koticky
 facebook_username:  koticky
 skype_username: koticky
+instagram_username: koticky
 
 # Build settings
 markdown: kramdown
